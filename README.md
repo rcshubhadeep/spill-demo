@@ -2,7 +2,7 @@
 
 ## Assumptions -
 
-You are unsing a *nix kind of machine. (Linux / Mac / Unix)
+You are using a *nix kind of machine. (Linux / Mac / Unix)
 
 ## Install Meteor -
 
