@@ -18,7 +18,7 @@ $ git clone https://github.com/rcshubhadeep/spill-demo.git
 
 ```
 $ cd spill-demo
-$ metero npm Install
+$ meteor npm install
 ```
 
 ## Start the server
