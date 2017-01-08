@@ -1,0 +1,17 @@
+<body>
+  <div class="container">
+    <header>
+      <h1>Data from contentful</h1>
+    </header>
+
+    <ul id="test">
+      {{#each tasks}}
+        {{> task}}
+      {{/each}}
+    </ul>
+  </div>
+</body>
+
+<template name="task">
+  <li>{{text}} <a href="{{url}}" target="_blank"> link </a> </li>
+</template>
